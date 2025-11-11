@@ -139,38 +139,8 @@ const Index = () => {
                 <div className="flex items-start gap-3 mb-2">
                   <Icon name="GraduationCap" className="text-primary mt-1" size={24} />
                   <div>
-                    <h3 className="text-xl font-semibold">Магистр филологии</h3>
-                    <p className="text-muted-foreground">МГУ имени М.В. Ломоносова, 2012</p>
-                  </div>
-                </div>
-              </div>
-
-              <div className="border-l-4 border-secondary pl-6">
-                <div className="flex items-start gap-3 mb-2">
-                  <Icon name="Award" className="text-secondary mt-1" size={24} />
-                  <div>
-                    <h3 className="text-xl font-semibold">CELTA Certificate</h3>
-                    <p className="text-muted-foreground">Cambridge Assessment English, 2014</p>
-                  </div>
-                </div>
-              </div>
-
-              <div className="border-l-4 border-primary pl-6">
-                <div className="flex items-start gap-3 mb-2">
-                  <Icon name="FileCheck" className="text-primary mt-1" size={24} />
-                  <div>
-                    <h3 className="text-xl font-semibold">IELTS Examiner Training</h3>
-                    <p className="text-muted-foreground">British Council, 2016</p>
-                  </div>
-                </div>
-              </div>
-
-              <div className="border-l-4 border-secondary pl-6">
-                <div className="flex items-start gap-3 mb-2">
-                  <Icon name="Trophy" className="text-secondary mt-1" size={24} />
-                  <div>
-                    <h3 className="text-xl font-semibold">TKT Modules 1-3</h3>
-                    <p className="text-muted-foreground">Cambridge Assessment English, 2018</p>
+                    <h3 className="text-xl font-semibold">Преподаватель английского и немецкого языков</h3>
+                    <p className="text-muted-foreground">Череповецкий государственный университет</p>
                   </div>
                 </div>
               </div>
