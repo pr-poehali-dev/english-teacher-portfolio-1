@@ -39,7 +39,7 @@ const Index = () => {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="animate-fade-in">
               <h2 className="text-5xl md:text-6xl font-bold text-primary mb-6">
-                Елена Смирнова
+                Данил Горбылев
               </h2>
               <p className="text-xl text-muted-foreground mb-4">
                 Профессиональный преподаватель английского языка
@@ -353,7 +353,7 @@ const Index = () => {
                 <Icon name="Mail" className="text-primary" size={24} />
               </div>
               <p className="font-semibold">Email</p>
-              <p className="text-sm text-muted-foreground">elena@english.com</p>
+              <p className="text-sm text-muted-foreground">danil@english.com</p>
             </div>
             <div className="flex flex-col items-center">
               <div className="w-12 h-12 bg-secondary/20 rounded-full flex items-center justify-center mb-3">
@@ -367,7 +367,7 @@ const Index = () => {
                 <Icon name="MessageCircle" className="text-primary" size={24} />
               </div>
               <p className="font-semibold">Telegram</p>
-              <p className="text-sm text-muted-foreground">@elena_english</p>
+              <p className="text-sm text-muted-foreground">@danil_english</p>
             </div>
           </div>
         </div>
@@ -375,7 +375,7 @@ const Index = () => {
 
       <footer className="bg-primary text-primary-foreground py-12 px-6">
         <div className="container mx-auto text-center">
-          <h3 className="text-2xl font-bold mb-4">Елена Смирнова</h3>
+          <h3 className="text-2xl font-bold mb-4">Данил Горбылев</h3>
           <p className="mb-6">Профессиональный преподаватель английского языка</p>
           <div className="flex justify-center gap-6 mb-6">
             <a href="#" className="hover:text-secondary transition-colors">
