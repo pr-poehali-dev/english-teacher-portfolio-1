@@ -46,7 +46,7 @@ const Index = () => {
               </p>
               <p className="text-lg text-foreground mb-8 leading-relaxed">
                 Помогаю достигать целей через индивидуальный подход и современные методики обучения. 
-                Более 10 лет опыта в преподавании английского языка.
+                Около 1 года опыта в преподавании английского языка.
               </p>
               <div className="flex gap-4">
                 <Button size="lg" className="bg-primary hover:bg-primary/90" onClick={() => document.getElementById('contact')?.scrollIntoView({ behavior: 'smooth' })}>
@@ -112,7 +112,7 @@ const Index = () => {
           <div className="max-w-3xl mx-auto mt-16 text-center">
             <p className="text-lg text-foreground leading-relaxed mb-6">
               Я верю, что каждый может овладеть английским языком при правильном подходе. 
-              За годы преподавания я помогла более 200 студентам достичь своих целей — 
+              За время преподавания я помог ученикам достичь своих целей — 
               от успешной сдачи международных экзаменов до свободного общения в путешествиях и на работе.
             </p>
             <p className="text-lg text-foreground leading-relaxed">
@@ -192,7 +192,7 @@ const Index = () => {
             </div>
             <div className="grid grid-cols-2 gap-6">
               <Card className="text-center p-6">
-                <div className="text-4xl font-bold text-primary mb-2">200+</div>
+                <div className="text-4xl font-bold text-primary mb-2">15+</div>
                 <p className="text-muted-foreground">Успешных студентов</p>
               </Card>
               <Card className="text-center p-6">
@@ -200,8 +200,8 @@ const Index = () => {
                 <p className="text-muted-foreground">Сдали экзамены</p>
               </Card>
               <Card className="text-center p-6">
-                <div className="text-4xl font-bold text-primary mb-2">10+</div>
-                <p className="text-muted-foreground">Лет опыта</p>
+                <div className="text-4xl font-bold text-primary mb-2">1</div>
+                <p className="text-muted-foreground">Год опыта</p>
               </Card>
               <Card className="text-center p-6">
                 <div className="text-4xl font-bold text-secondary mb-2">98%</div>
