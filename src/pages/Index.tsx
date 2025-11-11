@@ -144,6 +144,16 @@ const Index = () => {
                   </div>
                 </div>
               </div>
+
+              <div className="border-l-4 border-secondary pl-6">
+                <div className="flex items-start gap-3 mb-2">
+                  <Icon name="Award" className="text-secondary mt-1" size={24} />
+                  <div>
+                    <h3 className="text-xl font-semibold">IELTS Certificate</h3>
+                    <p className="text-muted-foreground">Международный сертификат</p>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>
