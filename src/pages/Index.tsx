@@ -162,8 +162,8 @@ const Index = () => {
             </div>
             <div className="grid grid-cols-2 gap-6">
               <Card className="text-center p-6">
-                <div className="text-4xl font-bold text-primary mb-2">15+</div>
-                <p className="text-muted-foreground">Успешных студентов</p>
+                <div className="text-4xl font-bold text-primary mb-2">10+</div>
+                <p className="text-muted-foreground">Успешных учеников</p>
               </Card>
               <Card className="text-center p-6">
                 <div className="text-4xl font-bold text-secondary mb-2">95%</div>
